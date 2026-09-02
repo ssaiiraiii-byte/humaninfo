@@ -1,0 +1,10 @@
+{
+  "archiveSHA256" : "b190942ece8274db4d05934e1d915464fc0722748af856676383398a54dce4d1",
+  "archiveSignature" : "/cTBIEwcOiSHZNsPwjmqcMUlzzNVsAgV82cWzjvlaMd518chCOhM6h6bgMg1SXI3URWgAHeOw5w7zaEoADEJAw==",
+  "archiveSize" : 3300206,
+  "build" : 5,
+  "bundleIdentifier" : "com.thikdski.humaninfo",
+  "downloadURL" : "https://raw.githubusercontent.com/ssaiiraiii-byte/humaninfo/main/HumanInfo%201.2.zip",
+  "schemaVersion" : 1,
+  "version" : "1.2"
+}
