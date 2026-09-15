@@ -1,10 +1,10 @@
 {
-  "archiveSHA256" : "2e6aa3d96327c7cda46c5daf9d5346bb1abeda6ad30c7c6b77a0efe8333a5c2b",
-  "archiveSignature" : "Ju08QBZ0xlUDcTnt+ddInhL+DLgJaKfffRGWmOTYB/co3iqHQaehpJa2d1ckAvn2jnSv9SYkV9Z7+GNqJrSbAg==",
-  "archiveSize" : 3299312,
-  "build" : 12,
+  "archiveSHA256" : "f363d57aa7bf603636a138f67459c9cc3c4f5ddac2aae0280f11d29a44945558",
+  "archiveSignature" : "j0KDqmQjwqzhl6ndYR/0R3r6LVkgFiH6buWVlQyAsoX4n3CtByC63DEPAjr/ttT6VonymfHuRHbvYDOJd7soDA==",
+  "archiveSize" : 3308314,
+  "build" : 13,
   "bundleIdentifier" : "com.thikdski.humaninfo",
-  "downloadURL" : "https://raw.githubusercontent.com/ssaiiraiii-byte/humaninfo/main/HumanInfo%201.4.1.zip",
+  "downloadURL" : "https://raw.githubusercontent.com/ssaiiraiii-byte/humaninfo/main/HumanInfo%201.4.2.zip",
   "schemaVersion" : 1,
-  "version" : "1.4.1"
+  "version" : "1.4.2"
 }
